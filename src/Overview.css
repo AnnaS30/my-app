@@ -1,0 +1,13 @@
+.Overview h1 {
+  font-size: 35px;
+  font-weight: 550;
+  line-height: 28px;
+  margin-top: 25px;
+}
+.Overview li {
+  font-weight: 500;
+}
+.Overview {
+  margin-bottom: 30px;
+  opacity: 0.8;
+}

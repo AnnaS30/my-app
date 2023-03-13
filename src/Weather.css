@@ -1,0 +1,32 @@
+.temperature {
+  font-size: 50px;
+  line-height: 1;
+  font-weight: 400;
+  opacity: 0.8;
+  display: inline;
+  padding-left: 7px;
+}
+.weather-describtion .units {
+  position: relative;
+  top: -25px;
+  font-size: 16px;
+}
+/* .Weather-describtion .active {
+  color: red;
+  text-decoration: none;
+  cursor: default;
+} */
+/* .Weather-describtion .weather-temperature .active.active:hover {
+  text-decoration: none;
+} */
+a:link {
+  text-decoration: none;
+}
+#icon {
+  position: relative;
+  top: -12px;
+}
+ul .weather-details {
+  opacity: 0.8;
+  font-weight: 500;
+}
