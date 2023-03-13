@@ -13,6 +13,9 @@ function App() {
             <Overview />
             <Weather />
           </div>
+          <a href="https://github.com/AnnaS30/my-app">Open-source code</a> by
+          AnnaS and hosted on{" "}
+          <a href="https://gentle-faun-caab27.netlify.app">Netlify</a>
         </div>
       </div>
     </div>
